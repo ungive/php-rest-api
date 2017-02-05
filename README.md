@@ -7,7 +7,7 @@ This tutorial will cover all features of this library and how to use them. I.a. 
 A rewrite engine is not needed for that.  
 - The `ApiController` base class has several attributes that you can work with inside your controller class. [#](#the-apicontroller-class)
 - A response (-object) is encoded by the WebApi class. The supported types are JSON and XML.  
-- The HTTP response code can be specified by return an instance of the `HttpResponse` class.  
+- The HTTP response code can be specified by returning an instance of the `HttpResponse` class.  
 
 --
 
